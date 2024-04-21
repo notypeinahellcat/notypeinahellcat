@@ -4,7 +4,7 @@
         int age = 20;
         String country = "Poland";
         boolean student = true;
-        String favoriteLanguage = "Java";
+        String favoriteLanguages = "Java,C#";
         String[] languagesSpoken = {"Polish", "English"};
   }
 }
